@@ -2,10 +2,10 @@
 Open Data Day (Scraping con programación y sin ella, extracción de datos de PDFs, fuentes de datos comunes)  
   
 >+ Scraping (definición y conocimientos previos).
-2. Scraping para no programadores.
-3. Extracción de datos en PDFs.
-4. Fuentes de datos comunes.  
-5. Conclusión.
+ Scraping para no programadores.
+ Extracción de datos en PDFs.
+ Fuentes de datos comunes.  
+ Conclusión.
   
 ##1. Scraping (definición y conocimientos previos).   
   
@@ -17,11 +17,11 @@ Según Wikipedia: “Web Scraping es una técnica utilizada mediante programas d
 
 ###Buenas costumbres en scraping:  
 
-1. Definir previamente lo que se busca. Planificar.  
-2. Copiar web.  
-3. Conocimientos previos de programación.  
-4. Conservar fuentes.  
-5. Guardar los datos utilizando estándares.  
+>+  Definir previamente lo que se busca. Planificar.  
+ Copiar web.  
+ Conocimientos previos de programación.  
+ Conservar fuentes.  
+ Guardar los datos utilizando estándares.  
 
 ###Aspectos legales:  
 
@@ -30,9 +30,9 @@ Artículo 133 del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se
 
 ###Planificar:
 
-1. Open project  
-2. Redmine  
-3. Github  
+>+ Open project  
+ Redmine  
+ Github  
 
 ###Copia web:   
 
@@ -56,11 +56,11 @@ Clearly
 
 ###Scrapy:  
 
-1. Scraping express por Serafín Velez Barrera
+*  Scraping express por Serafín Velez Barrera
 
 ![scrapy](/images/scrapy.png)
 
-2. Scraping Web Pages with Scrapy - YouTube
+*  Scraping Web Pages with Scrapy - YouTube
 
 ###R
 ![Rbloggers](/images/Rbloggers.png)
@@ -69,11 +69,11 @@ Clearly
   
 ###Google spreadsheet:  
 
-1. ImportHTML()  
+*  ImportHTML()  
 
   
 
-2. importxml()  
+*  importxml()  
 
   
 
