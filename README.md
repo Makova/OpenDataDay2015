@@ -71,7 +71,7 @@ Clearly
 
 *  ImportHTML()  
 
-  <iframe src="//www.slideshare.net/slideshow/embed_code/16690790" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//es.slideshare.net/seravb/scraping" title="Scraping" target="_blank">Scraping</a> </strong> from <strong><a href="//www.slideshare.net/seravb" target="_blank">Serafín</a></strong> </div>
+
   
 *  importxml()  
 
