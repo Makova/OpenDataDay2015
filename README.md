@@ -69,15 +69,11 @@ Clearly
   
 ###Google spreadsheet:  
 
-*  ImportHTML()  
+`ImportHTML()`  
 
-
-  
-*  importxml()  
+`importxml()`  
 
   
-
-
 
 ###Google Refine: 
 
