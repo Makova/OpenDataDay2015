@@ -116,24 +116,24 @@ procesos de ayuda a la decisión.
 Tipos de usuarios:   
 
 a. Granjero  
-- Accede a información de forma predecible y repetitiva.  
-- Sólo accede a su parcela de información: extrae datos para mejorar el funcionamiento de la empresa.
-- Utiliza herramientas OLAP (On-Line Analytical Processing).  
+>+ Accede a información de forma predecible y repetitiva.  
+>+ Sólo accede a su parcela de información: extrae datos para mejorar el funcionamiento de la empresa.
+>+ Utiliza herramientas OLAP (On-Line Analytical Processing).  
 
 b. Explorador  
-- Explora gran cantidad de datos.  
-- Accede a información de forma impredecible e irregular.  
-- Perfil informático o estadístico.  
-- Objetivo: Obtener información que proporcione ventaja competitiva.  
+>+ Explora gran cantidad de datos.  
+>+ Accede a información de forma impredecible e irregular.  
+>+ Perfil informático o estadístico.  
+>+ Objetivo: Obtener información que proporcione ventaja competitiva.  
 
 c. Turista  
-- Grupo de dos o más personas.  
-- Un perfil con conocimientos del negocio y visión global empresa.  
-- Segundo perfil con conocimientos informáticos.  
-- Consulta datos y metadatos.  
-- Acceden sin ningún patrón de acceso.  
-- Las herramientas que utiliza suelen ser navegadores o buscadores.  
-- Su resultado serán proyectos para los usuarios granjero y explorador.  
+>* Grupo de dos o más personas.  
+>+ Un perfil con conocimientos del negocio y visión global empresa.  
+>+ Segundo perfil con conocimientos informáticos.  
+>+ Consulta datos y metadatos.  
+>+ Acceden sin ningún patrón de acceso.  
+>+ Las herramientas que utiliza suelen ser navegadores o buscadores.  
+>* Su resultado serán proyectos para los usuarios granjero y explorador.  
 
 2. Pentaho  
 
