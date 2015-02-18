@@ -56,7 +56,7 @@ Clearly
 
 ###Scrapy:  
 
-*  Scraping express por Serafín Velez Barrera
+*  [Scraping express por Serafín Velez Barrera](http://es.slideshare.net/seravb/scraping)
 
 ![scrapy](/images/scrapy.png)
 
